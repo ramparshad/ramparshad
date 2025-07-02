@@ -1,7 +1,7 @@
-# <h1 align="center">Hi, I'm Ram Parshad</h1>
+<h1 align="center">Hi, I'm Ram Parshad</h1>
 
 <hr>
-## <h1 align="center">Android App Developer</h1>
+<h3 align="center">Android App Developer</h3>
 
 🌱 I’m currently Working on Jetpack Compose.
 
