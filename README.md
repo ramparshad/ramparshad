@@ -1,4 +1,7 @@
-# Hi,I'm Ram Parshad
+# <h1 align="center">Hi, I'm Ram Parshad</h1>
+
+<hr>
+## <h1 align="center">Android App Developer</h1>
 
 🌱 I’m currently Working on Jetpack Compose.
 
